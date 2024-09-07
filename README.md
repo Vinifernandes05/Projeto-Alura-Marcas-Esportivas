@@ -1,4 +1,4 @@
-##  **Marcas Esportivas: Seu Guia Pessoal para as Melhores Marcas do Esporte!** 
+##  **Marcas Esportivas: Seu Guia Pessoal para as Melhores Marcas do Esporte - Imersão Dev com Google Gemini 
 
 **O que faz essa aplicação?**
 
